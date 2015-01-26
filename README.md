@@ -1,4 +1,4 @@
 godef
 =====
 
-Fork from code.google.com/p/rog-go/exp/cmd/godef
+Fork from github.com/yayua/rog-go/exp/cmd/godef
